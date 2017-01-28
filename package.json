@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/CentennialCollege/COMP308-W2017-Lesson3B.git"
+    "url": "git+https://github.com/brams1123/Comp308Labs.git"
   },
   "keywords": [
     "NodeJS",
@@ -25,9 +25,9 @@
   "author": "Tom Tsiliopoulos",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/CentennialCollege/COMP308-W2017-Lesson3B/issues"
+    "url": "https://github.com/brams1123/Comp308Labs/issues"
   },
-  "homepage": "https://github.com/CentennialCollege/COMP308-W2017-Lesson3B#readme",
+  "homepage": "https://github.com/brams1123/Comp308Labs#readme",
   "dependencies": {
     "express": "^4.14.0"
   }
